@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="mysql-connector-j-8.4.0.jar" type="JarApplication" singleton="false">
+    <option name="JAR_PATH" value="$PROJECT_DIR$/src/main/java/com/app/chat/mysql-connector-j-8.4.0.jar" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2" />
+  </configuration>
+</component>
